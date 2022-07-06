@@ -1,7 +1,9 @@
+
 .footer{
     background-color: rgb(48, 46, 46);
-    height: 80px;
+    height: 150px;
     color: white;
     display: grid;
     align-items: center;
+    place-content: center;
 }
